@@ -1,0 +1,5 @@
+Nel bancomat 1 le banconote da € 10 sono ridotte a 30 pezzi
+Nel bancomat 1 le banconote da € 20 sono ridotte a 0 pezzi
+Nel bancomat 1 le banconote da € 50 sono ridotte a 0 pezzi
+Nel bancomat 1 le banconote da € 100 sono ridotte a 0 pezzi
+Nel bancomat 1 le banconote da € 200 sono ridotte a 0 pezzi
