@@ -17,6 +17,3 @@ Le possibile operazioni che si potranno effettuare sono:
 
 ## Documentazione e Astah
 Nella cartella 'Documentazione_e_Asth' sono presenti i ducumenti relativi alla documentazione del progetto e i grafici delle iterazioni realizzati con Asth
-
-## Avvio applicazione
-Per avviare l'applicazione bisogna eseguire il file Main.java
