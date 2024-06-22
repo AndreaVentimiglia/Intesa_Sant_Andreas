@@ -15,5 +15,12 @@ Le possibile operazioni che si potranno effettuare sono:
 * gestire prelievi attraverso un bancomat
 * manutenzione dei bacomat
 
+## Collaboratori
+- **Battaglia Andrea**
+- **Ventimiglia Andrea Paolo**
+
 ## Documentazione e Astah
-Nella cartella 'Documentazione_e_Asth' sono presenti i ducumenti relativi alla documentazione del progetto e i grafici delle iterazioni realizzati con Asth
+Nella cartella 'Documentazione_e_Asth' sono presenti i ducumenti relativi alla documentazione del progetto e i grafici delle iterazioni realizzati con Astah:
+- Documentazione: [qui](Documentazione_e_Astah/Documentazione/Documentazione.pdf).
+
+
