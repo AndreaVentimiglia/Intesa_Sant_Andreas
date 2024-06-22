@@ -1,4 +1,4 @@
-# Intesa Sant Andreas
+# Intesa Sant'Andreas
 Il Sistema realizzato consiste in un’applicazione software dedicata alla simulazione delle fondamentali
 transazioni all'interno di un contesto bancario. Questo sistema si focalizza sull'abilità di creare profili dei
 clienti e conti bancari, oltre a consentire operazioni quali il prelievo di fondi e l'esecuzione di altre attività
